@@ -1,2 +1,1 @@
 # MAS
-Multi-Agent Systems
